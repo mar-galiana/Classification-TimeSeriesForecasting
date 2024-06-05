@@ -1,0 +1,6 @@
+# Required Libraries
+pickle
+numpy
+pandas
+tensorflow
+matplotlib
